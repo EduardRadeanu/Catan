@@ -1,0 +1,80 @@
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.AssemblyReference.cache
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Configurare.resources
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.WindowJoc.resources
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.GenerateResource.cache
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfoInputs.cache
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfo.cs
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.CoreCompileInputs.cache
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.exe
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.deps.json
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.runtimeconfig.json
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.dll
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.pdb
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Meniu.resources
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.dll
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\refint\ProiectPoo.dll
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.pdb
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.genruntimeconfig.cache
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ref\ProiectPoo.dll
+C:\Users\vladl\OneDrive\Documente\POO\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Properties.Resources.resources
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.exe
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.deps.json
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.runtimeconfig.json
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.dll
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.pdb
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.AssemblyReference.cache
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Configurare.resources
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Meniu.resources
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Properties.Resources.resources
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.WindowJoc.resources
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.GenerateResource.cache
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfoInputs.cache
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfo.cs
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.CoreCompileInputs.cache
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.dll
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\refint\ProiectPoo.dll
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.pdb
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.genruntimeconfig.cache
+D:\teme\mate sem 4\poo\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ref\ProiectPoo.dll
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.dll
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\refint\ProiectPoo.dll
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.pdb
+E:\projects visual studio\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.exe
+E:\projects visual studio\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.deps.json
+E:\projects visual studio\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.runtimeconfig.json
+E:\projects visual studio\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.dll
+E:\projects visual studio\ProiectPoo\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.pdb
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.AssemblyReference.cache
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Configurare.resources
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Meniu.resources
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Properties.Resources.resources
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.WindowJoc.resources
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.GenerateResource.cache
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfoInputs.cache
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfo.cs
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.CoreCompileInputs.cache
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.genruntimeconfig.cache
+E:\projects visual studio\ProiectPoo\ProiectPoo\obj\Debug\net6.0-windows\ref\ProiectPoo.dll
+E:\projects visual studio\Catan\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.exe
+E:\projects visual studio\Catan\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.deps.json
+E:\projects visual studio\Catan\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.runtimeconfig.json
+E:\projects visual studio\Catan\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.dll
+E:\projects visual studio\Catan\ProiectPoo\bin\Debug\net6.0-windows\ProiectPoo.pdb
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.AssemblyReference.cache
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Configurare.resources
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Meniu.resources
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.Properties.Resources.resources
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.WindowJoc.resources
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.GenerateResource.cache
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfoInputs.cache
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.AssemblyInfo.cs
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.csproj.CoreCompileInputs.cache
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.dll
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\refint\ProiectPoo.dll
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.pdb
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ProiectPoo.genruntimeconfig.cache
+E:\projects visual studio\Catan\ProiectPoo\obj\Debug\net6.0-windows\ref\ProiectPoo.dll

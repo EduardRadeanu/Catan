@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJBcWoCVtCVcIlKVfUHUvf/8GVCb0/JLZed5k7B+q4SzmcpDLLYS4JBPNt+GflNhQzSgyokLU6SxtO/jdHrjNw==",
+  "success": true,
+  "projectFilePath": "E:\\projects visual studio\\Catan\\ProiectPoo\\ProiectPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\edira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\edira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\edira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
